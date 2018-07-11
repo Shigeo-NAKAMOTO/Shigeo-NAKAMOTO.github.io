@@ -15,3 +15,14 @@
 .spacer50 { margin-top: 50px; }
 .spacer100 { margin-top: 100px; }
 .spacer200 { margin-top: 200px; }
+
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+#language li {
+    border-left: 3px solid #cfcfcf;
+    display: inline;
+    padding: 0 8px 0;
+}
